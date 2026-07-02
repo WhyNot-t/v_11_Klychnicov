@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="card_gray">#F8F8F8</color>
+    <color name="gray_field_border">#EAEAEA</color>
+    <color name="purple_field_border">#733FE1</color>
+    <color name="purple_light">#EFE9FC</color>
+    <color name="purple_main">#733FE1</color>
+    <color name="settings_card_gray">#F5F5F5</color>
+    <color name="text_dark">#263238</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_secondary">#455A64</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about_app">О приложении</string>
+    <string name="app_name">Деловой звонок</string>
+    <string name="app_version">Версия 1.13.6.2</string>
+    <string name="btn_authorize">Авторизоваться</string>
+    <string name="btn_call">Позвонить с этого номера</string>
+    <string name="btn_reset_settings">Сбросить настройки</string>
+    <string name="business_number_label">Ваш деловой номер</string>
+    <string name="business_number_value">+7 (383) 200-00-00</string>
+    <string name="cd_back">Назад</string>
+    <string name="cd_logo">Логотип приложения</string>
+    <string name="cd_settings">Настройки</string>
+    <string name="cd_show_password">Показать пароль</string>
+    <string name="default_username">Username</string>
+    <string name="greeting_prefix">Добрый день, </string>
+    <string name="greeting_suffix">!</string>
+    <string name="header_title">Деловой звонок</string>
+    <string name="hint_login">Логин:</string>
+    <string name="hint_password">Пароль:</string>
+    <string name="incoming_label">Входящие мин.</string>
+    <string name="incoming_value">\u221E</string>
+    <string name="outgoing_label">Исходящие мин.</string>
+    <string name="outgoing_value">282 мин.</string>
+    <string name="setting_autorenew">Включить автопродление тарифа</string>
+    <string name="setting_dnd_mode">Включить режим «Не беспокоить»</string>
+    <string name="setting_incoming_calls">Принимать входящие звонки на деловой номер</string>
+    <string name="settings_title">Настройки</string>
+    <string name="toast_empty_fields">Введите логин и пароль</string>
+    <string name="toast_no_dialer">Не удалось открыть приложение для звонков</string>
+    <string name="toast_setting_off">выключено</string>
+    <string name="toast_setting_on">включено</string>
+    <string name="toast_settings_reset">Настройки сброшены</string>
+    <string name="updated_prefix">Обновлено </string>
+    <string name="updated_value">22 декабря, в 11:20</string>
+    <style name="Theme.Klychnicov" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_main</item>
+        <item name="colorPrimaryVariant">@color/purple_main</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/purple_main</item>
+        <item name="colorSecondaryVariant">@color/purple_main</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

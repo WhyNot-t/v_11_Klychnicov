@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Деловой звонок</string>
+
+    <string name="hint_login">Логин:</string>
+    <string name="hint_password">Пароль:</string>
+    <string name="btn_authorize">Авторизоваться</string>
+
+    <string name="header_title">Деловой звонок</string>
+    <string name="greeting_prefix">Добрый день, </string>
+    <string name="greeting_suffix">!</string>
+    <string name="default_username">Username</string>
+    <string name="business_number_label">Ваш деловой номер</string>
+    <string name="business_number_value">+7 (383) 200-00-00</string>
+    <string name="outgoing_label">Исходящие мин.</string>
+    <string name="outgoing_value">282 мин.</string>
+    <string name="incoming_label">Входящие мин.</string>
+    <string name="incoming_value">\u221E</string>
+    <string name="updated_prefix">Обновлено </string>
+    <string name="updated_value">22 декабря, в 11:20</string>
+    <string name="btn_call">Позвонить с этого номера</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="setting_incoming_calls">Принимать входящие звонки на деловой номер</string>
+    <string name="setting_dnd_mode">Включить режим «Не беспокоить»</string>
+    <string name="setting_autorenew">Включить автопродление тарифа</string>
+    <string name="about_app">О приложении</string>
+    <string name="app_version">Версия 1.13.6.2</string>
+    <string name="btn_reset_settings">Сбросить настройки</string>
+
+    <string name="toast_setting_on">включено</string>
+    <string name="toast_setting_off">выключено</string>
+    <string name="toast_settings_reset">Настройки сброшены</string>
+    <string name="toast_empty_fields">Введите логин и пароль</string>
+    <string name="toast_no_dialer">Не удалось открыть приложение для звонков</string>
+
+    <string name="cd_back">Назад</string>
+    <string name="cd_settings">Настройки</string>
+    <string name="cd_show_password">Показать пароль</string>
+    <string name="cd_logo">Логотип приложения</string>
+</resources>

@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Klychnicov_v_11"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:4:5-31:19
+12        android:allowBackup="true"
+12-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:5:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\Denis\.gradle\caches\transforms-3\0212d0c0c0b99c5d00c15a82a811f4d1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:6:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:7:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:8:9-43
+19        android:label="@string/app_name"
+19-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:9:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:10:9-54
+21        android:supportsRtl="true"
+21-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:11:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.Klychnicov" >
+23-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:12:9-48
+24        <activity
+24-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:14:9-21:20
+25            android:name="com.example.Klychnicov_v_11.RegistrationActivity"
+25-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:15:13-49
+26            android:exported="true" >
+26-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:16:13-36
+27            <intent-filter>
+27-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:17:13-20:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:18:17-69
+28-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:19:17-77
+30-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:19:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:23:9-25:40
+34            android:name="com.example.Klychnicov_v_11.ProfileActivity"
+34-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:24:13-44
+35            android:exported="false" />
+35-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:25:13-37
+36        <activity
+36-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:27:9-29:40
+37            android:name="com.example.Klychnicov_v_11.UserSettingsActivity"
+37-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:28:13-49
+38            android:exported="false" />
+38-->D:\Klychnicov_v_11\app\src\main\AndroidManifest.xml:29:13-37
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+42            android:authorities="com.example.Klychnicov_v_11.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Denis\.gradle\caches\transforms-3\98f686da2fce73ff8e48ca6a893a34a2\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Denis\.gradle\caches\transforms-3\087e3e4f119bd3d4d28bb978bd0efd9b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Denis\.gradle\caches\transforms-3\087e3e4f119bd3d4d28bb978bd0efd9b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Denis\.gradle\caches\transforms-3\087e3e4f119bd3d4d28bb978bd0efd9b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>

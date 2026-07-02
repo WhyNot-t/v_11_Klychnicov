@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_bg_field_focused.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/bg_field_focused.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_illustration.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_illustration.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_settings.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_exit.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/layout_activity_user_settings.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/layout/activity_user_settings.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_bg_field_normal.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/bg_field_normal.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_back.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_eye.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_bg_button_purple.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/bg_button_purple.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/layout_activity_profile.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_phone.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_logo.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/layout_activity_registration.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_bg_card_purple_light.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/bg_card_purple_light.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_ic_eye_off.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/ic_eye_off.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/drawable_bg_card_gray.xml.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/drawable/bg_card_gray.xml"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.Klychnicov_v_11.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.Klychnicov_v_11.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
